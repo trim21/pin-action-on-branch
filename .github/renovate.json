@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "github>trim21/renovate-config",
+    "github>trim21/renovate-config:js",
+    "github>trim21/renovate-config:go",
+    "github>trim21/renovate-config:app",
+    "github>trim21/renovate-config:poetry",
+    "github>trim21/renovate-config:python",
+    "github>trim21/renovate-config:monthly"
+  ],
+  "automerge": true
+}
